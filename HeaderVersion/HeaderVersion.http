@@ -1,0 +1,6 @@
+@HeaderVersion_HostAddress = http://localhost:5116
+
+GET {{HeaderVersion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
