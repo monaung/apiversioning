@@ -1,0 +1,6 @@
+@MinimalAPIVersioning_HostAddress = http://localhost:5026
+
+GET {{MinimalAPIVersioning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
